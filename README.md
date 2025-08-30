@@ -1,1 +1,1 @@
-# Laboratorio-I---Juan-Sebastian-Villalobos-Toledo
+# Automatización I --Juan-Sebastian-Villalobos-Toledo
